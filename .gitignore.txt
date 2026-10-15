@@ -1,0 +1,12 @@
+prospectos.csv
+envios.csv
+bajas.txt
+historial_busquedas.txt
+dominios_visitados.txt
+config_mailer.json
+*_pendientes_*.csv
+*_respaldo_*.csv
+.env
+__pycache__/
+venv/
+*.exe
